@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: cc732f8cf35f16a439fcedc7854906a4
+  - enabled: 1
+    path: Assets/Scenes/InstructionsMenu.unity
+    guid: 06f903d010eb2a842b85c67c37936d62
+  - enabled: 1
+    path: Assets/Scenes/TrackSelectMenu.unity
+    guid: 37b128e137d97ff4b8591a1bf8e9f4a7
+  - enabled: 1
+    path: Assets/Scenes/GrassTrack01.unity
+    guid: ae9e0bafe6990844293e908748992a24
+  - enabled: 1
+    path: Assets/Scenes/DesertTrack01.unity
+    guid: 9c7d7261b9b851c4d9565381cc5faf39
+  - enabled: 1
+    path: Assets/Scenes/PlayAgainMenu.unity
+    guid: c04bdc4d0a0cef84faef49119514b86a
+  m_configObjects: {}
